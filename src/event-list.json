@@ -1,4 +1,4 @@
 
-  [{"id":0,"title":"Zakupy","dueTime": "12/03/30","difficulty": 2,"description": "mega slabe","isDone": true},
-  {"id":1,"title":"Zakupy","dueTime": "12/03/12","difficulty": 2,"description": "mega slabe","isDone": false},
-  {"id":2,"title":"Zakupy","dueTime": "12/03/12","difficulty": 2,"description": "mega slabe","isDone": false}]
+  [{"id":0,"title":"Zakupy","dueTime": "2025-04-01","difficulty": 2,"description": "Zwykłe zakupy spożywcze, mleko, cukier i woda","isDone": true},
+  {"id":1,"title":"Nauka do matury","dueTime": "2023-03-21","difficulty": 10,"description": "Powtórzyć fotosyntezę na biologię","isDone": false},
+  {"id":2,"title":"Zmywanie","dueTime": "2025-03-28","difficulty": 4,"description": "Trzeba umyć całą zastawę domową","isDone": false}]

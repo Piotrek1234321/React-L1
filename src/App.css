@@ -39,3 +39,45 @@ h1 {
     transform: rotate(360deg);
   }
 }
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 600px;
+  min-height: 100vh;
+}
+.uList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 0;
+  list-style-type: none;
+  width: 100%;
+}
+
+.oList {
+  background-color: #fff;
+  padding: 15px 20px;
+  border-radius: 12px;
+
+  width: 100%;
+  max-width: 500px;
+  text-align: center;
+}
+.uListAdd{
+
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 0;
+  list-style-type: none;
+  width: 100%;
+}
+
+
+
